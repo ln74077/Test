@@ -87,7 +87,7 @@ var options = {
 })
 })
 
-app.set('port', ($OPENSHIFT_Cart_Name_PORT || 5000));
+app.set('port', ($OPENSHIFT_Cart_Name_PORT || 8080));
 
 app.listen(app.get('port'))
 
