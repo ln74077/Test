@@ -4,7 +4,7 @@
   "description": "To get Link from google, Yahoo , Bing for any given search term",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -30,3 +30,4 @@
     "request": "^2.85.0"
   }
 }
+
