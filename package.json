@@ -4,7 +4,6 @@
   "description": "To get Link from google, Yahoo , Bing for any given search term",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
     "start": "index.js"
   },
   "repository": {
